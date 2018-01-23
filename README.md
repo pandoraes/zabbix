@@ -1,0 +1,2 @@
+# zabbix
+auto install zabbix
